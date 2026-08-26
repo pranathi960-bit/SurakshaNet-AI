@@ -1,6 +1,6 @@
 import type { AnalysisResult, DemoCase } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = 'https://surakshanet-ai-ovan.onrender.com/api';
 
 export const CLIENT_DEMO_CASES: DemoCase[] = [
   {
